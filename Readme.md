@@ -4,7 +4,7 @@ Maybe I will do that if I have some time, and feel like it.
 For now, I don't really see a necessity for that. Just enjoy them as they are.
 
 
-If you are not used to Github (or to text files ;) ), don't get scared off by this. Calm down, an read.
+If you are not used to Github (or to text files ;) ), don't get scared off by this. Calm down, and read.
 
 ## Articles ##
 
