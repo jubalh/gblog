@@ -12,7 +12,10 @@ Arch was nice, but I didn't like the "all in one file" thing. Which made it diff
 Gentoo was cool, because you *tweaked* everything, played around here and there, but somehow all the tweaking wasn't really worth it.
 I didn't like Ubuntu, never thought about why. I just don't care about it very much.
 
-I never understood a reason for distributions like "we just take distribution X change a nice icon theme use Firefox instead of Konqueror and give our new distribution a fancy name".
+People like different stuff, people need different stuff.
+I like Debian, you can like whatever you want to.
+
+I never understood a reason for distributions like "we just take distribution X change a nice icon theme use Firefox instead of Konqueror and give our new distribution a fancy name" though.
 It's basically the same distribution, just other programs in it. You don't eed to create new ISO's, which you need to host on some server or share over Bittorrent. That's not really "new" distribution. It's just a distribution, and you installed the software that you liked.
 You can create a package for that, can't you? You could write a script which does these changes. Why create a "new" distribution, with all the overhead.
 
@@ -25,8 +28,8 @@ Why, sure. Most people do that. In a sense.
 
 ## Whe have bigger problems ##
 
-I totally agree. Like for example, when people who studied computer science, and are experts in their field (on the paper), talk like Ubuntu == Linux. Like there is no other distro.
-And really an awful lot of people don't seem to be aware of that "Linux" actually the Kernel. For convenience sake I mostly use the word Linux and mean, the whole operating system. Kernel, GNU programs and all, the whole package.
+I totally agree. Like for example, when people who studied computer science, and are experts in their field (at least on paper), talk like Ubuntu == Linux. Like there is no other distro.
+And really an awful lot of people don't seem to be aware of that *Linux* actually is just the Kernel. For convenience sake I mostly use the word Linux and mean, the whole operating system. Kernel, GNU programs and all, the whole package.
 It's normal to do that. But you should be aware, that technically Linux is the Kernel.
 
 ## Why did you write all this, man? ##
